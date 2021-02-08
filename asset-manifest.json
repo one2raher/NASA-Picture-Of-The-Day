@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/one2raher/NASA-Picture-Of-The-Day/static/js/main.e2a0248d.chunk.js",
-    "main.js.map": "/one2raher/NASA-Picture-Of-The-Day/static/js/main.e2a0248d.chunk.js.map",
-    "runtime-main.js": "/one2raher/NASA-Picture-Of-The-Day/static/js/runtime-main.857241ec.js",
-    "runtime-main.js.map": "/one2raher/NASA-Picture-Of-The-Day/static/js/runtime-main.857241ec.js.map",
-    "static/css/2.c3401967.chunk.css": "/one2raher/NASA-Picture-Of-The-Day/static/css/2.c3401967.chunk.css",
-    "static/js/2.e589e681.chunk.js": "/one2raher/NASA-Picture-Of-The-Day/static/js/2.e589e681.chunk.js",
-    "static/js/2.e589e681.chunk.js.map": "/one2raher/NASA-Picture-Of-The-Day/static/js/2.e589e681.chunk.js.map",
-    "index.html": "/one2raher/NASA-Picture-Of-The-Day/index.html",
-    "static/css/2.c3401967.chunk.css.map": "/one2raher/NASA-Picture-Of-The-Day/static/css/2.c3401967.chunk.css.map",
-    "static/js/2.e589e681.chunk.js.LICENSE.txt": "/one2raher/NASA-Picture-Of-The-Day/static/js/2.e589e681.chunk.js.LICENSE.txt"
+    "main.js": "/NASA-Picture-Of-The-Day/static/js/main.e2a0248d.chunk.js",
+    "main.js.map": "/NASA-Picture-Of-The-Day/static/js/main.e2a0248d.chunk.js.map",
+    "runtime-main.js": "/NASA-Picture-Of-The-Day/static/js/runtime-main.0bf5c8e8.js",
+    "runtime-main.js.map": "/NASA-Picture-Of-The-Day/static/js/runtime-main.0bf5c8e8.js.map",
+    "static/css/2.c3401967.chunk.css": "/NASA-Picture-Of-The-Day/static/css/2.c3401967.chunk.css",
+    "static/js/2.49108c4a.chunk.js": "/NASA-Picture-Of-The-Day/static/js/2.49108c4a.chunk.js",
+    "static/js/2.49108c4a.chunk.js.map": "/NASA-Picture-Of-The-Day/static/js/2.49108c4a.chunk.js.map",
+    "index.html": "/NASA-Picture-Of-The-Day/index.html",
+    "static/css/2.c3401967.chunk.css.map": "/NASA-Picture-Of-The-Day/static/css/2.c3401967.chunk.css.map",
+    "static/js/2.49108c4a.chunk.js.LICENSE.txt": "/NASA-Picture-Of-The-Day/static/js/2.49108c4a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.857241ec.js",
+    "static/js/runtime-main.0bf5c8e8.js",
     "static/css/2.c3401967.chunk.css",
-    "static/js/2.e589e681.chunk.js",
+    "static/js/2.49108c4a.chunk.js",
     "static/js/main.e2a0248d.chunk.js"
   ]
 }
