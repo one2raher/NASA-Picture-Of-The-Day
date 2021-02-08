@@ -5,8 +5,8 @@ This is a VK mini app. It helps with finding "Astronomy Picture of the Day" by N
 
 ## Screenshots
 <p float="left">
-  <img src="/1.PNG" width="250" />
-  <img src="/2.PNG" width="250" /> 
+  <img src="/2.PNG" width="250" />
+  <img src="/1.PNG" width="250" /> 
 </p>
 
 ## Features
