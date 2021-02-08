@@ -1,3 +1,23 @@
+# NASA Picture Of The Day
+[![License](https://img.shields.io/github/license/romarakhlin/Dating-VK-mini-App)](https://github.com/romarakhlin/Dating-VK-mini-App/blob/master/LICENSE)
+
+This is a VK mini app. It helps with finding "Astronomy Picture of the Day" by NASA.
+
+## Screenshots
+<p float="left">
+  <img src="/1.PNG" width="250" />
+  <img src="/2.PNG" width="250" /> 
+</p>
+
+## Features
+- Сonvenient Date Picker
+- Nice scrolable page with all information about the photo
+- Original resolution of the photo
+- Adopted for almost all version of IOS and Android
+
+## License
+NASA-Picture-Of-The-Day is available under the MIT license. See the LICENSE file for more info.
+
 [<img width="134" src="https://vk.com/images/apps/mini_apps/vk_mini_apps_logo.svg">](https://vk.com/services)
 
 # Create VK Mini App [![npm][npm]][npm-url] [![deps][deps]][deps-url]
