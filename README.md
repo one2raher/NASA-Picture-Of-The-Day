@@ -1,5 +1,5 @@
 # NASA Picture Of The Day
-[![License](https://img.shields.io/github/license/romarakhlin/Dating-VK-mini-App)](https://github.com/romarakhlin/Dating-VK-mini-App/blob/master/LICENSE)
+[![License](https://img.shields.io/github/license/one2raher/NASA-Picture-Of-The-Day)](https://github.com/one2raher/NASA-Picture-Of-The-Day/blob/master/LICENSE)
 
 This is a VK mini app. It helps with finding "Astronomy Picture of the Day" by NASA.
 
